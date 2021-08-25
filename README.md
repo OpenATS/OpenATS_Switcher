@@ -10,4 +10,4 @@ About：
 
 
 ![Image text](https://github.com/OpenATS/OpenATS_Switcher/blob/master/pic/0.png)
-![Image text](https://github.com/OpenATS/OpenATS_Switcher/blob/master/pic/1.jpg)
+![Image text](https://github.com/OpenATS/OpenATS_Switcher/blob/master/pic/1.png)
